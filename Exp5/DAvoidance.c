@@ -14,7 +14,6 @@ int i,j,k,n,need[10][10];
 int m;
 int count=0,c=0;
 char finish[10];
-clrscr();
 printf("Enter the no. of processes and resources:");
 scanf("%d%d",&n,&m);
 for(i=0;i<=n;i++)
