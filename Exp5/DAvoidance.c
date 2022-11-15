@@ -5,7 +5,6 @@
    Date of Execution: 15-11-2022
 */
 #include<stdio.h>
-#include<conio.h>
 #include<string.h>
 void main()
 {
