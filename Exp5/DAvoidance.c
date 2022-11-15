@@ -70,5 +70,4 @@ goto A;
 else
 printf("\n System is in safe mode");
 printf("\n The given state is safe state");
-getch();
 }
